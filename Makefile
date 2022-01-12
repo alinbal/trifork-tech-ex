@@ -15,3 +15,9 @@ docker-push:
 
 start-db:
 	docker run --name triforkdb -p 5432:5432 -e POSTGRES_PASSWORD=mysecretpassword -d postgres
+
+up:
+	docker-compose up
+
+down:
+	docker-compose down
