@@ -6,6 +6,7 @@
   <a href="https://trifork.com/">
     <img src="https://trifork.com/wp-content/themes/trifork-main/dw-img/logo-trifork-white.svg" alt="Logo" width="200" height="80">
   </a>
+</div>
 
 ### Get Started
 
